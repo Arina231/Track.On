@@ -43,14 +43,14 @@ a:visited {
 /* SIDEBAR */
 .sidebar {
   flex-basis: 50rem;
-  background-color: var(--color-dark--1);
+  background-color: black;
   padding: 3rem 5rem 4rem 5rem;
   display: flex;
   flex-direction: column;
 }
 
 .logo {
-  height: 5.2rem;
+  height: 25.8rem;
   align-self: center;
   margin-bottom: 4rem;
 }
